@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Magnus Danielsen Portfolio</title>
+  <link rel="stylesheet" href="/css/projekter.css">
+  <script src="/js/script.js"></script>
+  <script src="https://kit.fontawesome.com/5e2cb9f1be.js" crossorigin="anonymous"></script>
+  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+  <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+</head>
+
+<script>
+  $(function() {$("#myIcon").click(function() {
+    $('.rotate').toggleClass("down");
+  });
+  });
+</script>
+
+<body>
+
+
+  
+<div class="overflow-wrapper">
+
+<div class="wrapper">
+
+
+<video loop autoplay muted id="topnav-background">
+  <source type="video/mp4" src="/images/topnav-background.mp4"></source>
+</video>  
+
+<!--
+<img id="topnav-background2" img src="images/background2.jpg">
+-->
+
+<!--Kilde: https://www.w3schools.com/howto/howto_js_topnav_responsive.asp-->
+  
+<div class="topnav-container">
+
+  <div class="topnav" id="myTopnav">
+    <button class="topnav-button1"><a href="/index.html/">Forside</button></a>
+    <button class="topnav-button2"><a href="/posts/">Blog</button></a>
+    <button class="topnav-button3"><a href="/projekter.html/">Projekter</button></a>
+    <button class="topnav-button4"><a href="/om-mig.html/">Om Mig</button></a>
+  </div>
+
+
+
+  <!--Kilde: https://www.w3schools.com/howto/howto_js_topnav_responsive.asp-->
+    <a href="javascript:void(0);" class="icon rotate" id="myIcon" onclick="One()">
+    <i class="fa fa-bars fa-2x"></i></a>
+</div>
+
+
+
+<center><h1 class="projekter">Projekter</h1></center>
+
+<section class="grid-container">
+
+ 
+  <center><div class="box one">
+    <h1>Hjemmeside</h1>
+  
+    <img class="richters" src="/images/richters.png" style="border-radius: 20px;">
+  
+    <h2><a style="text-decoration:none;" href="https://sweet-yeot-cae135.netlify.app/" target="_blank">Hjemmeside link</a></h2>
+
+    <p>
+      Jeg har kodet en hjemmeside i HTML, CSS og Javascript for Richters Ølstue. Mine forældre er ejerne af Richters Ølstue, og de spurgte mig derfor, om jeg ville kode en hjemmeside til dem. Hjemmesiden er ikke officielt online endnu, da der stadig er nogle ting, der skal laves om på den. Idéen var at lave en responsiv og professionel hjemmeside med en visuel identitet Jeg er dog blevet bedre at til kode siden - så jeg skal tilbage og kode den bedre. Undervejs har jeg draget mig en hel del erfaringer fra projektet, og jeg blev betydeligt bedre til at kode af det. Erfaringer fra det her projekt har jeg blandt andet brugt til at kode netop den her online portfolio.
+    </p>
+ 
+  </div></center>
+
+
+  <center><div class="box two">
+    <div class="container reveal fade-bottom">
+      <h1>Video</h1>
+
+      <video style="border-radius: 20px;" class="how-to-video" controls>
+      <source src="/images/how-to-final.mp4" type="video/mp4">
+      <source src="/images/how-to-final.ogg" type="video/ogg">
+      </video>
+
+      <h2><a style="text-decoration:none;" href="https://youtu.be/Q2qw16RH9A0" target="_blank">Fuld how to video link</a></h2>
+      
+      <p>
+        Jeg har i et gruppeprojekt på 1. semester i multimediedesign været med til at lave en video. Opgaven var at lave en "how to" video, og vi endte med at lave en video om, hvordan man farver sit hår. Vores løsning var at lave en fast paced video med upbeat musik og hurtige klipniger for at fastholde seerens interesse. Jeg har været med inde over hele projektet fra brainstorm, planlægning, optagelse, redigering og overlevering. Jeg nød dog mest den del, hvor man får lov at redigere. Jeg har fra projektet blandt andet lært noget om, hvordan man planlægger og eksekverer en seriøs videooptagelse fra start til slut. Desuden har jeg også udviklet færdigheder i Premiere Pro og After Effects, som jeg vil kunne bruge til fremtidige projekter.
+      </p>
+
+    </div>
+  </div></center>
+ 
+
+  
+  <center><div class="box three">
+    <div class="container reveal fade-bottom">
+      <h1>3D Model</h1>
+
+      <a  href="/images/flaske.jpg" target="_blank">
+      <img class="flaske" src="/images/flaske.jpg" style="border-radius: 20px;">
+      </a>
+
+      <h2 style="text-decoration:none;">Blendermodel</h2>
+
+      <p>
+        Jeg har på 1. semester af min afbrudte uddannelse i medialogi draget erfaringer med 3D-modellering -og animationsværktøjet "Blender". Jeg har i min fritid lavet en flaske, et glas og en scene, for at øve mig i at bruge værktøjet. Resultatet kan ses i billedet ovenover. Jeg har i løbet af denne proces lært en masse om Blender, som jeg kan bruge, hvis jeg fremover skal modellere noget digital.
+      </p>
+
+    </div>
+   </div></center>
+  
+
+  <center><div class="box four">
+    <div class="container reveal fade-bottom">
+      <h1>Animation</h1>
+
+      <video style="border-radius: 20px;" class="animation-video" controls>
+      <source src="/images/blender-animation.mp4" type="video/mp4">
+      <source src="/images/blender-animation.ogg" type="video/ogg">
+      </video>
+
+      <h2>3D model animation</h2>
+
+      <p>
+        Jeg har på 1. semester af min afbrudte uddannelse i medialogi haft en individuel projektopgave, hvor jeg skulle lave en animation af et 3D objekt, som jeg valgte at bruge 3D-modellering -og animationsværktøjet "Blender" til. Det første jeg gjorde var at lave en 3D-model af et propelfly, da jeg selv flyver mindre fly i min fritid. Det tog størstedelen af tiden, da jeg prøvede at få så mange detaljer med som muligt. Efterfølgende brugte jeg keyframes til at lave en animation af flyet, der letter. Jeg satte så en baggrund ind og lydeffekter, hvilket giver det endelige resultat. Projektet har lært mig om, hvordan man kan animere 3D objekter med keyframes for at skabe animationer.
+      </p>
+
+    </div>
+  </div></center>
+
+  
+  <center><div class="box five">
+    <h1>Fremtidigt projekt</h1>
+  </div></center>
+  
+  <center><div class="box six">
+    <h1>Fremtidigt projekt</h1>
+  </div></center>
+
+</section>
+
+
+<div class="push"></div>
+ 
+
+</div>
+
+
+
+
+
+<div class="footer">
+
+  <div class="mail-container">
+    <text class="button4" style="padding: 0; margin-right: 1%;">magnus.danielsen@hotmail.com</text>
+    <a href="mailto:magnus.danielsen@hotmail.com"> <i class="fa-solid fa-envelope fa-2x"></i></a>
+  </div>
+
+  <div class="some-container">
+    <a href="https://dk.linkedin.com/" target="_blank"> <button class="button6" style="padding: 0; margin-right: 1%; cursor: pointer;">linked</button></a>
+    <a href="https://dk.linkedin.com/" target="_blank"> <i class="fab fa-linkedin-in fa-2x" style="color: rgb(0, 0, 0);"></i></a>
+  </div>
+
+</div>
+
+
+<!--<center><i class="fa-solid fa-arrow-down fa-4x" style="color: white; margin-"></i></center>-->
+
+
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
