@@ -20,7 +20,7 @@ body {
 .topnav {
   display: flex;
   justify-content: center;
-  background-color:rgba(134, 134, 134);
+  background-color: #4e4e4e; 
 }
 
 /*Navbar-knapper enkeltvis*/
