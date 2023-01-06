@@ -3,7 +3,7 @@
     color: #FBB03B;
     font-size: 400%;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-  }
+}
 
 @media screen and (max-width: 1300px) {
 .blog {
