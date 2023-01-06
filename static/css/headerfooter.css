@@ -1,3 +1,13 @@
+* { box-sizing: border-box; }
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(73, 120, 223);
+  font-family: 'Roboto';
+}
+
 /*Baggrund, logo og knapper*/
 .topnav-container {
   position: fixed;
@@ -251,18 +261,19 @@ margin-left: 5px;
 }
 
 
-/*
+
 @media screen and (max-width: 1300px) {
   #topnav-background {
-    display: none;
-    } 
-  }
+  display: none;
+  } 
+}
   
-  @media screen and (min-width: 1300px) {
-    #topnav-background-mobile {
-    display: none;
-    } 
-  }
+/*
+@media screen and (min-width: 1300px) {
+  #topnav-background-mobile {
+  display: none;
+  } 
+}
 */
 
 .wrapper {

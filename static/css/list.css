@@ -1,12 +1,3 @@
-* { box-sizing: border-box; }
-
-body {
-  min-height: 100vh;
-  margin: 0;
-  padding: 0;
-  background-color: rgb(255, 255, 255);
-  font-family: 'Roboto';
-}
 
 .blog {
   margin-top: 125px;

@@ -1,14 +1,5 @@
-* { box-sizing: border-box; }
 
-body {
-  min-height: 100vh;
-  margin: 0;
-  padding: 0;
-  background-color: black;
-  font-family: 'Roboto';
-}
-
-
+/*Baggrund*/
 #topnav-background {
   position: fixed;
   top: 0;
@@ -17,17 +8,6 @@ body {
   height: fit-content;
   z-index: -2;
 }
-
-/*Baggrund
-#topnav-background-mobile {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -3;
-} 
-*/
 
 .om-mig {
   margin-top: 125px;
@@ -98,6 +78,7 @@ margin-left: 5vw;
   color: rgb(153, 46, 112);
   font-size: 250%;
   margin-top: 0;
+  text-shadow: -1px -1px 0 #000, 0.5px -0.5px 0 #000, -0.5px 0.5px 0 #000, 0.5px 0.5px 0 #000;
 }
 
 .two h2 {
