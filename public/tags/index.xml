@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
+    <link>https://magnusdanielsen.netlify.app/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 00:35:25 +0100</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 00:35:25 +0100</lastBuildDate><atom:link href="https://magnusdanielsen.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dance</title>
-      <link>http://example.org/tags/dance/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/dance/</link>
       <pubDate>Thu, 05 Jan 2023 00:35:25 +0100</pubDate>
       
-      <guid>http://example.org/tags/dance/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/dance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latin</title>
-      <link>http://example.org/tags/latin/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/latin/</link>
       <pubDate>Thu, 05 Jan 2023 00:35:25 +0100</pubDate>
       
-      <guid>http://example.org/tags/latin/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/latin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://example.org/tags/music/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/music/</link>
       <pubDate>Thu, 05 Jan 2023 00:35:25 +0100</pubDate>
       
-      <guid>http://example.org/tags/music/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Festivals</title>
-      <link>http://example.org/tags/festivals/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/festivals/</link>
       <pubDate>Thu, 05 Jan 2023 00:33:03 +0100</pubDate>
       
-      <guid>http://example.org/tags/festivals/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/festivals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building</title>
-      <link>http://example.org/tags/building/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/building/</link>
       <pubDate>Wed, 04 Jan 2023 00:28:36 +0100</pubDate>
       
-      <guid>http://example.org/tags/building/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/building/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>http://example.org/tags/design/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/design/</link>
       <pubDate>Wed, 04 Jan 2023 00:28:36 +0100</pubDate>
       
-      <guid>http://example.org/tags/design/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Health Care</title>
-      <link>http://example.org/tags/health-care/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/health-care/</link>
       <pubDate>Tue, 03 Jan 2023 21:54:08 +0100</pubDate>
       
-      <guid>http://example.org/tags/health-care/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/health-care/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heath</title>
-      <link>http://example.org/tags/heath/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/heath/</link>
       <pubDate>Tue, 03 Jan 2023 21:54:08 +0100</pubDate>
       
-      <guid>http://example.org/tags/heath/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/heath/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nutrition</title>
-      <link>http://example.org/tags/nutrition/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/nutrition/</link>
       <pubDate>Tue, 03 Jan 2023 21:54:08 +0100</pubDate>
       
-      <guid>http://example.org/tags/nutrition/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/nutrition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prevention</title>
-      <link>http://example.org/tags/prevention/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/prevention/</link>
       <pubDate>Tue, 03 Jan 2023 21:54:08 +0100</pubDate>
       
-      <guid>http://example.org/tags/prevention/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/prevention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vaccines</title>
-      <link>http://example.org/tags/vaccines/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/vaccines/</link>
       <pubDate>Tue, 03 Jan 2023 21:54:08 +0100</pubDate>
       
-      <guid>http://example.org/tags/vaccines/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/vaccines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cholesterol</title>
-      <link>http://example.org/tags/cholesterol/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/cholesterol/</link>
       <pubDate>Tue, 03 Jan 2023 21:50:06 +0100</pubDate>
       
-      <guid>http://example.org/tags/cholesterol/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/cholesterol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Healthy Eating</title>
-      <link>http://example.org/tags/healthy-eating/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/healthy-eating/</link>
       <pubDate>Tue, 03 Jan 2023 21:50:06 +0100</pubDate>
       
-      <guid>http://example.org/tags/healthy-eating/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/healthy-eating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weight Loss</title>
-      <link>http://example.org/tags/weight-loss/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/weight-loss/</link>
       <pubDate>Tue, 03 Jan 2023 21:50:06 +0100</pubDate>
       
-      <guid>http://example.org/tags/weight-loss/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/weight-loss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medicine</title>
-      <link>http://example.org/tags/medicine/</link>
+      <link>https://magnusdanielsen.netlify.app/tags/medicine/</link>
       <pubDate>Tue, 03 Jan 2023 21:29:12 +0100</pubDate>
       
-      <guid>http://example.org/tags/medicine/</guid>
+      <guid>https://magnusdanielsen.netlify.app/tags/medicine/</guid>
       <description></description>
     </item>
     

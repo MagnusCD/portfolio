@@ -4,7 +4,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: white;
+  background-color: rgb(73, 120, 223);
   font-family: 'Roboto';
 }
 
@@ -20,7 +20,7 @@ body {
 .topnav {
   display: flex;
   justify-content: center;
-  background-color:rgba(134, 134, 134);
+  background-color:rgba(255, 255, 255, 0.1);
 }
 
 /*Navbar-knapper enkeltvis*/
@@ -63,6 +63,21 @@ body {
 }
 
 
+@keyframes growDown {
+  0% {
+      transform: scaleY(0)
+  }
+  100% {
+      transform: scaleY(1)
+  }
+}
+
+
+
+
+
+
+
 .btn-active a:visited, .btn-active a:link {
   color:rgb(153, 46, 112);
 }
@@ -80,9 +95,15 @@ body {
   
 .topnav.topnav.responsive a {
   display: block;
-  height: 100px;
-  line-height: 100px;
+  height: 50px;
+  line-height: 50px;
 }
+
+
+
+
+
+
 
 
 
@@ -99,7 +120,7 @@ body {
     position: absolute;
     top: 15px;
     right: 15px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     z-index: 3;
   }
 }
@@ -240,18 +261,19 @@ margin-left: 5px;
 }
 
 
-/*
+
 @media screen and (max-width: 1300px) {
   #topnav-background {
-    display: none;
-    } 
-  }
+  display: none;
+  } 
+}
   
-  @media screen and (min-width: 1300px) {
-    #topnav-background-mobile {
-    display: none;
-    } 
-  }
+/*
+@media screen and (min-width: 1300px) {
+  #topnav-background-mobile {
+  display: none;
+  } 
+}
 */
 
 .wrapper {
@@ -269,4 +291,10 @@ margin-left: 5px;
 .overflow-wrapper {
   overflow: hidden;
 }
+
+
+
+
+
+
 

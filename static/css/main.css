@@ -1,8 +1,23 @@
+.blog {
+    margin-top: 125px;
+    color: #FBB03B;
+    font-size: 400%;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  }
+
+@media screen and (max-width: 1300px) {
+.blog {
+ margin-top: 75px;
+    }
+}
+
 img {
     max-width: 100%;
 }
 
-
+.site-main {
+    margin-top: 8vw;
+}
 
 
 
