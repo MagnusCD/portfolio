@@ -22,7 +22,7 @@ img {
 @media screen and (max-width: 1300px) {
 .wrapper {
     min-height: 100%;
-    margin-bottom: 600px;
+    margin-bottom: fit-content;
     overflow: hidden;
     }
 }
